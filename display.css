@@ -1,0 +1,23 @@
+/*reset basico*/
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.card img{
+    width: 400px;
+    border-radius: 80px;
+}
+.card{
+    width: 420px;
+    display: inline-block;
+    text-align: center;
+    
+}
+.musicas{
+   
+    width: 100%;
+    text-align: center;
+}
+    
+    
